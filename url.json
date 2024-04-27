@@ -1,0 +1,14 @@
+{
+    "pic": {
+      "all": "https://raw.githubusercontent.com/GettionHub/random-api/url/pic/all.csv",
+      "fjht": "https://raw.githubusercontent.com/GettionHub/random-api/url/pic/fjht.csv",
+      "czlwb": "https://raw.githubusercontent.com/GettionHub/random-api/url/pic/czl-website-background.csv",
+      "truegirl": "https://raw.githubusercontent.com/GettionHub/random-api/url/pic/truegirl.csv",
+      "ecy": "https://raw.githubusercontent.com/GettionHub/random-api/url/pic/ecy.csv",
+      "test": "https://raw.githubusercontent.com/GettionHub/random-api/url/pic/test.csv"
+    },
+    "video": {
+      "all": "https://raw.githubusercontent.com/GettionHub/random-api/url/video/all.csv"
+    }
+}
+  
