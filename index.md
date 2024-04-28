@@ -15,6 +15,7 @@
 | 种类     | 请求地址   | 
 | ---------- | ---------------- | 
 | 所有 | [https://random.1000.run/video/all](https://random.1000.run/video/all) |
+| NakedEye3D | [https://random.1000.run/video/NakedEye3D](https://random.1000.run/video/NakedEye3D) |
 
 ## 音乐接口
 | 种类     | 请求地址   | 
