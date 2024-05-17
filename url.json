@@ -12,6 +12,7 @@
       "NakedEye3D": "https://raw.githubusercontent.com/GettionHub/random-api/main/url/video/NakedEye3D.csv"
     },
     "music": {
+      "bgm": "https://raw.githubusercontent.com/GettionHub/random-api/main/url/music/bgm.csv",
       "hotlist": "https://raw.githubusercontent.com/GettionHub/random-api/main/url/music/hotlist.csv"
     }
 }
