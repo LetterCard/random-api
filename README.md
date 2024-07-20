@@ -4,7 +4,7 @@
 
 ## 使用链接
 
-[https://random.1000.run](https://random.1000.run)
+[https://random.cloudns.ch](https://random.cloudns.ch)
 
 ## 部署、更新和原理
 
