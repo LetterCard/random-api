@@ -1,5 +1,5 @@
 // 外部 JSON 文件的 URL
-const CSV_PATHS_URL = 'https://raw.githubusercontent.com/GettionHub/random-api/main/url.json';
+const CSV_PATHS_URL = 'https://raw.githubusercontent.com/lettercard/random-api/main/url.json';
 
 addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request));
@@ -58,10 +58,9 @@ async function handleRequest(request) {
     }
   } else {
     // 请求路径不在配置中，返回默认首页
-    const indexHtmlResponse = await fetch('https://raw.githubusercontent.com/GettionHub/random-api/main/index.html');
+    const indexHtmlResponse = await fetch('https://raw.githubusercontent.com/lettercard/random-api/main/index.html');
     return new Response(indexHtmlResponse.body, {
       headers: { 'Content-Type': 'text/html' },
     });
   }
 }
-
